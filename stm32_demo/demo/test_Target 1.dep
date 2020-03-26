@@ -1,0 +1,126 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\test.c)(0x5D908E71)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\test.o --omf_browse .\test.crf --depend .\test.d)
+I (my.h)(0x5D908C60)
+I (.\led_demo\led.h)(0x5D9038C8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (.\key_demo\key.h)(0x5D903949)
+I (.\nled_demo\nled.h)(0x5D9038C8)
+I (.\speaker_demo\speaker.h)(0x5D9037DF)
+I (.\timer_demo\timer.h)(0x5D9037DF)
+I (.\wdt_demo\wdt.h)(0x5D9038C8)
+I (.\music_demo\music.h)(0x5D9038C8)
+I (.\uart_demo\uart.h)(0x5D8F1D49)
+I (D:\keil_uVision\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (.\ADC_demo\ad.h)(0x5D9038C8)
+I (.\DHT11_demo\dht.h)(0x5D908CB7)
+F (.\key_demo\key.c)(0x5D903949)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\key.o --omf_browse .\key.crf --depend .\key.d)
+I (key_demo\key.h)(0x5D903949)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\key_demo\key.h)(0x5D903949)()
+F (.\led_demo\led.h)(0x5D9038C8)()
+F (.\led_demo\led.c)(0x5D903863)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (led_demo\led.h)(0x5D9038C8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\nled_demo\nled.c)(0x5D903863)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\nled.o --omf_browse .\nled.crf --depend .\nled.d)
+I (nled_demo\nled.h)(0x5D9038C8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\nled_demo\nled.h)(0x5D9038C8)()
+F (.\speaker_demo\speaker.h)(0x5D9037DF)()
+F (.\speaker_demo\speaker.c)(0x5D900189)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\speaker.o --omf_browse .\speaker.crf --depend .\speaker.d)
+I (speaker_demo\speaker.h)(0x5D9037DF)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (.\timer_demo\timer.h)(0x5D9037DF)
+F (.\timer_demo\timer.c)(0x5D8E204C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (timer_demo\timer.h)(0x5D9037DF)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\timer_demo\timer.h)(0x5D9037DF)()
+F (.\wdt_demo\wdt.c)(0x5D903863)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\wdt.o --omf_browse .\wdt.crf --depend .\wdt.d)
+I (wdt_demo\wdt.h)(0x5D9038C8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\wdt_demo\wdt.h)(0x5D9038C8)()
+F (.\music_demo\music.h)(0x5D9038C8)()
+F (.\music_demo\music.c)(0x5D903863)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\music.o --omf_browse .\music.crf --depend .\music.d)
+I (music_demo\music.h)(0x5D9038C8)
+I (.\speaker_demo\speaker.h)(0x5D9037DF)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (.\timer_demo\timer.h)(0x5D9037DF)
+F (.\my.h)(0x5D908C60)()
+F (.\uart_demo\uart.h)(0x5D8F1D49)()
+F (.\uart_demo\uart.c)(0x5D8F1D65)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (uart_demo\uart.h)(0x5D8F1D49)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (D:\keil_uVision\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+F (.\ADC_demo\ad.h)(0x5D9038C8)()
+F (.\ADC_demo\ad.c)(0x5D903863)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\ad.o --omf_browse .\ad.crf --depend .\ad.d)
+I (ADC_demo\ad.h)(0x5D9038C8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (.\DHT11_demo\dht.c)(0x5D908E11)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\dht.o --omf_browse .\dht.crf --depend .\dht.d)
+I (DHT11_demo\dht.h)(0x5D908CB7)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (.\timer_demo\timer.h)(0x5D9037DF)
+I (.\uart_demo\uart.h)(0x5D8F1D49)
+I (D:\keil_uVision\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+F (.\DHT11_demo\dht.h)(0x5D908CB7)()
+F (RTE\Device\LPC11C14FBD48_301\startup_LPC11xx.s)(0x4CF35218)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1"--list .\startup_lpc11xx.lst --xref -o .\startup_lpc11xx.o --depend .\startup_lpc11xx.d)
+F (RTE\Device\LPC11C14FBD48_301\system_LPC11xx.c)(0x4CF35218)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I ..\demo -I .\key_demo -I .\led_demo -I .\nled_demo -I .\speaker_demo -I .\timer_demo -I .\wdt_demo -I .\music_demo -I .\uart_demo -I .\ADC_demo -I .\DHT11_demo-IG:\stm32_demo\demo\RTE\_Target_1-ID:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-ID:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="522" -D_RTE_-o .\system_lpc11xx.o --omf_browse .\system_lpc11xx.crf --depend .\system_lpc11xx.d)
+I (D:\keil_uVision\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x582539DE)
+I (D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)

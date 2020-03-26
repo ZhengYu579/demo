@@ -1,0 +1,10 @@
+.\music.o: music_demo\music.c
+.\music.o: music_demo\music.h
+.\music.o: .\speaker_demo\speaker.h
+.\music.o: D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h
+.\music.o: D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h
+.\music.o: D:\keil_uVision\ARM\ARMCC\Bin\..\include\stdint.h
+.\music.o: D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\music.o: D:\keil_uVision\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\music.o: D:\keil_uVision\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h
+.\music.o: .\timer_demo\timer.h

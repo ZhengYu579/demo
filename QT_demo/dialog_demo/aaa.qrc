@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>新建位图图像.bmp</file>
+    </qresource>
+</RCC>
